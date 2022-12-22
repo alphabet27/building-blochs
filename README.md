@@ -5,9 +5,9 @@ Welcome to the Building Blochs Challenge repository.
 <details>
 <summary><b>Click here to view Challenges</b></summary>
 <ol>
-<li>Quantum KNN Classifier for MNIST digits classification</li>
-<li>Quantum Compiler Challenge</li>
-<li>Bond angles of ethane conformers</li>
+<li><a href="https://github.com/alphabet27/building-blochs/tree/main/qknn-classifier">Quantum KNN Classifier for MNIST digits classification</a></li>
+<li><a href="https://github.com/alphabet27/building-blochs/tree/main/quantum-compiler">Quantum Compiler Challenge</a></li>
+<li><a href="https://github.com/alphabet27/building-blochs/tree/main/ethane-conformers">Bond angles of ethane conformers</a></li>
 </ol>
 
 </details>
