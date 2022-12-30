@@ -15,6 +15,7 @@ Welcome to the Building Blochs Challenge repository.
 <details>
 <summary><b>Click here to view Guidelines</b></summary>
 
-Participants can fork this repository into their system and upload the solutions in a separate Jupyter Notebook bearing their name. Finally they can create a pull request for submission.
+Participants can clone this repository or download the files and solve them on their computers. You are requested to join the discord channel <a href="https://h">Link to Discord Server</a> for mentorship. Instructions related to submission and any further queries will be addressed via the same.
+
 
 </details>
