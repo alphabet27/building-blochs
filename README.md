@@ -2,7 +2,7 @@
 
 Welcome to the Building Blochs Challenge repository. 
 
-Challenges</b>
+<b>Challenges</b>
 <ol>
 <li><a href="https://github.com/alphabet27/building-blochs/tree/main/qknn-classifier">Quantum KNN Classifier for MNIST digits classification</a></li>
 <li><a href="https://github.com/alphabet27/building-blochs/tree/main/quantum-compiler">Quantum Compiler Challenge</a></li>
