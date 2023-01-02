@@ -12,6 +12,6 @@ Welcome to the Building Blochs Challenge repository.
 
 <b>Guidelines</b>
 
-Participants can clone this repository or download the files and solve them on their computers. You are requested to join the discord channel <a href="https://h">Link to Discord Server</a> for mentorship. Instructions related to submission and any further queries will be addressed via the same.
+Participants can clone this repository or download the files and solve them on their computers. You are requested to join the discord channel <a href="https://discord.gg/weFHZRbhwM">Link to Discord Server</a> for mentorship. Instructions related to submission and any further queries will be addressed via the same.
 
 
