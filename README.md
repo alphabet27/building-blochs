@@ -12,10 +12,8 @@ Welcome to the Building Blochs Challenge repository.
 
 </details>
 
-<details>
-<summary><b>Click here to view Guidelines</b></summary>
+<b>Guidelines</b>
 
 Participants can clone this repository or download the files and solve them on their computers. You are requested to join the discord channel <a href="https://h">Link to Discord Server</a> for mentorship. Instructions related to submission and any further queries will be addressed via the same.
 
 
-</details>
