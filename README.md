@@ -3,6 +3,8 @@
 Welcome to the Building Blochs Challenge repository. 
 
 <b>Challenges</b>
+
+
 <b>Fractal Analytics</b> Problem Statement
 <ol>
 <li><a href="https://github.com/alphabet27/building-blochs/tree/main/qknn-classifier">Quantum KNN Classifier for MNIST digits classification</a></li>
