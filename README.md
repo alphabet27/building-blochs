@@ -3,11 +3,14 @@
 Welcome to the Building Blochs Challenge repository. 
 
 <b>Challenges</b>
+<b>Fractal Analytics</b> Problem Statement
 <ol>
-Fractal Analytics Problem Statement
 <li><a href="https://github.com/alphabet27/building-blochs/tree/main/qknn-classifier">Quantum KNN Classifier for MNIST digits classification</a></li>
 <li><a href="https://github.com/alphabet27/building-blochs/tree/main/quantum-compiler">Quantum Compiler Challenge</a></li>
-Qkrishi Problem Statement
+ </ol>
+
+<b>Qkrishi</b> Problem Statement
+<ol>
 <li><a href="https://github.com/alphabet27/building-blochs/tree/main/vqe">VQE for Formation energy of Water</a></li>
 </ol>
 
